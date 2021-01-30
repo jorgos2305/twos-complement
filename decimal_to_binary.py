@@ -71,7 +71,7 @@ def main():
     else:
         bin_num = dec_number
 
-    print(f'The binary equivalent of {dec_number} is {bin_num}', len(bin_num))
+    print(f'The binary equivalent of {dec_number} is {bin_num}')
 
 
 if __name__ == '__main__':
